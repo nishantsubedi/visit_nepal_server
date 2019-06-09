@@ -2,8 +2,8 @@
     {
         "id": 2001,
         "name": "Test",
-        "photocount": 5,
-        "coverphotos": [
+        "photoCount": 5,
+        "coverPhotos": [
             {
                 "id": 2001001,
                 "albumId": 200001
