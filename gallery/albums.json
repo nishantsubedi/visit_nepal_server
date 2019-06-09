@@ -6,15 +6,15 @@
         "coverPhotos": [
             {
                 "id": 2001001,
-                "albumId": 200001
+                "albumId": 2001
             },
             {
                 "id": 2001002,
-                "albumId": 200001
+                "albumId": 2001
             },
             {
                 "id": 2001003,
-                "albumId": 200001
+                "albumId": 2001
             }
         ]
     }
